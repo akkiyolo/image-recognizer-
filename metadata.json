@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Analyzer",
+  "description": "An interactive web application that uses the Gemini API to analyze uploaded images based on user prompts, providing insightful and detailed descriptions or answers to questions about the visual content.",
+  "requestFramePermissions": []
+}
